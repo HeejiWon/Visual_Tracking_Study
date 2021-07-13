@@ -15,3 +15,8 @@
     - reference : https://github.com/ZQPei/deep_sort_pytorch
   - Tracktor (trackint without bells and whistles) with explanation　　　　　　　　　　github : https://github.com/HeejiWon/Visual_Tracking_Study/blob/main/Trackor.ipynb
     - reference : https://github.com/phil-bergmann/tracking_wo_bnw
+
+  - SiamFC with explanation　　　　　　　　　　github : https://github.com/HeejiWon/Visual_Tracking_Study/blob/main/SiamFC.ipynb
+    - reference : https://github.com/zllrunning/SiameseX.PyTorch
+  - SiamMask with expanation　　　　　　　　　　github : https://github.com/HeejiWon/Visual_Tracking_Study/blob/main/SiamMask.ipynb
+    - reference : https://github.com/foolwood/SiamMask
